@@ -1,0 +1,25 @@
+{
+  "name": "gapitogpql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsaavedra/gapiToGpql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsaavedra/gapiToGpql/issues"
+  },
+  "homepage": "https://github.com/edsaavedra/gapiToGpql#readme",
+  "dependencies": {
+    "apollo-server": "^2.24.0",
+    "gapi-to-graphql": "^2.0.7"
+  }
+}
